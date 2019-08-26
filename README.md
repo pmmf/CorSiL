@@ -1,5 +1,5 @@
 # CorSiL
-A Portuguese Sign Language and Expressiveness Recognition Database
+**A Portuguese Sign Language and Expressiveness Recognition Database**
 
 
 One of the main challenges in the development of any automatic recognition system, especially in the sign language field, is the availability of suitable ground-truth data. 

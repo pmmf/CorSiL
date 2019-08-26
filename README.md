@@ -11,6 +11,9 @@ Here, a novel video-based database, called CorSiL, is presented. It comprises tw
 
 The database can be used for different purposes like Sign Language recognition tasks or emotion/expressiveness recognition from body language.
 
+<img align="left" src="./documentation/images/A.jpg" alt="CorSiL paper" title="Angular" hspace="20"/>
+<img align="left" src="./documentation/images/B.png" alt="CorSiL paper" title="Bootstrap" hspace="20"/>
+
 
 
 ### Get acess to the database

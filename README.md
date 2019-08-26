@@ -13,7 +13,7 @@ The database can be used for different purposes like Sign Language recognition t
 
 ### - CorSiL full description
 
-| [![VideoBlocks](./paper/print_page_1.png)](https://github.com/pmmf/CorSiL/blob/master/paper/CorSiL_paper.pdf)  | [![AudioBlocks](./paper/print_page_2.png)](https://github.com/pmmf/CorSiL/blob/master/paper/CorSiL_paper.pdf) |
+| [![page1](./paper/print_page_1.png)](https://github.com/pmmf/CorSiL/blob/master/paper/CorSiL_paper.pdf)  | [![page2](./paper/print_page_2.png)](https://github.com/pmmf/CorSiL/blob/master/paper/CorSiL_paper.pdf) |
 |:---:|:---:|
 
 

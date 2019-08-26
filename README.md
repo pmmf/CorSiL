@@ -11,3 +11,9 @@ Here, a novel video-based database, called CorSiL, is presented. It comprises tw
 The database can be used for different purposes like Sign Language recognition tasks or emotion/expressiveness recognition from body language.
 
 Both datasets have been already **manually annotated**. The entire CorSiL database is already freely available to the research community for benchmark purposes. If you want to have acess to CorSiL please send us an email to pmm@inesctec.pt
+
+
+https://docs.google.com/viewer?url=https://drive.google.com/open?id=10xgFHdKLe7vWA1jVE2nGYDUAiK5DQANQ
+
+
+

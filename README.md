@@ -13,6 +13,7 @@ The database can be used for different purposes like Sign Language recognition t
 
 <img align="left" src="./paper/print_page_1.png" width="200" alt="CorSiL paper"  hspace="20"/>
 <img align="left" src="./paper/print_page_2.png" width="200" alt="CorSiL paper" hspace="20"/>
+
 <br/><br/><br/><br/><br/><br/>
 
 ### Get acess to the database
